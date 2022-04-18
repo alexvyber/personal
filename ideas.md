@@ -9,3 +9,6 @@ $> config nvim --> opens ~/.config/nvim/init.vim or ../init.lua
 ### 2
 App that gives tips and tricks about linux and apps based on apps that installed on the system.
 This thing analyses the system and generates personalized tips.
+
+### 3
+Make repo that will be serve as tweet propasal ...
