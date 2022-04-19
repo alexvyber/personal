@@ -12,3 +12,6 @@ This thing analyses the system and generates personalized tips.
 
 ### 3
 Make repo that will be serve as tweet propasal ...
+
+### 4
+Git status all move from bash function to Go programm.
