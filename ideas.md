@@ -15,3 +15,12 @@ Make repo that will be serve as tweet propasal ...
 
 ### 4
 Git status all move from bash function to Go programm.
+
+### 5
+Develop CLI-based audio-player in V or Rust, or may be in both:)
+
+### 6
+1000 days of code - 1000daysofcode.com
+
+### 7
+mv, cp and other commands that can not to pase files that starts with '-' as options
