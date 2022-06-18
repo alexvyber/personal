@@ -24,3 +24,6 @@ Develop CLI-based audio-player in V or Rust, or may be in both:)
 
 ### 7
 mv, cp and other commands that can not to pase files that starts with '-' as options
+
+### 8 
+1000 days code tracker
